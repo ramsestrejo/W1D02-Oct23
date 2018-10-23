@@ -4,11 +4,11 @@
 
 ## Algorithm
 ### Rules of the game
-3 door game
-1 car behind one of the doors
-one door can be opened at once
-one player
-one host who know where the car is
+* 3 door game
+* 1 car behind one of the doors
+* one door can be opened at once
+* one player
+* one host who know where the car is
 
 ### Steps
 1. host asks player to make a pick
